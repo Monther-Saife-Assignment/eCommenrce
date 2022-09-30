@@ -1,0 +1,5 @@
+Video Number 14
+	Today we have created the nave bar-page and at the same time we initiate a simple variable named $noNavbar and its jop is to decide if the navbar
+page will be included or not ... by using isset Built-in Function...
+
+==================================
